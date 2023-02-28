@@ -1,0 +1,56 @@
+{
+  "questions": {
+    "question": [
+      {
+        "id": "1",
+        "question": "Which colleague sat with a Christmas background for far too long.",
+        "answer": "Berat"
+      },
+      {
+        "id": "2",
+        "question": "How many time zones are there in Russia?",
+        "answer": "11"
+      },
+      {
+        "id": "3",
+        "question": "What's the national flower of Japan?",
+        "answer": "Cherry blossom"
+      },
+      {
+        "id": "4",
+        "question": "How many stripes are there on the US flag?",
+        "answer": "13"
+      },
+      {
+        "id": "5",
+        "question": "What's the national animal of Australia?",
+        "answer": "Red Kangaroo"
+      },
+      {
+        "id": "6",
+        "question": "How many days does it take for the Earth to orbit the Sun?",
+        "answer": "365"
+      },
+      {
+        "id": "7",
+        "question": "Who's having a great time abroad",
+        "answer": "Samuel"
+      },
+      {
+        "id": "8",
+        "question": "How many puzzle pieces has Kicki put together",
+        "answer": "5000"
+      },
+      {
+        "id": "9",
+        "question": "Who has a cat named Freya",
+        "answer": "Martina"
+      },
+      {
+        "id": "10",
+        "question": "Which colleague has spoken on national radio",
+        "answer": "Fabiola"
+      }
+    ]
+  }
+}
