@@ -33,23 +33,28 @@
       },
       {
         "id": "7",
-        "question": "Who's having a great time abroad",
+        "question": "Who's having a great time abroad?",
         "answer": "Samuel"
       },
       {
         "id": "8",
-        "question": "How many puzzle pieces has Kicki put together",
+        "question": "How many puzzle pieces has Kicki put together?",
         "answer": "5000"
       },
       {
         "id": "9",
-        "question": "Who has a cat named Freya",
+        "question": "Who has a cat named Freya?",
         "answer": "Martina"
       },
       {
         "id": "10",
-        "question": "Which colleague has spoken on national radio",
+        "question": "Which colleague has read 'Sjörapporten' on SR P1?",
         "answer": "Fabiola"
+      },
+      {
+        "id": "11",
+        "question": "How many colleagues celebrate their birthday in September?",
+        "answer": "6"
       }
     ]
   }
