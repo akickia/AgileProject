@@ -1,0 +1,11 @@
+body {
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+section {
+  border: 1px solid black;
+  margin: 2rem;
+  padding: 1rem;
+}
