@@ -9,20 +9,19 @@
 </head>
 <body>
   <header>
-    <h1>NAME OF PAGE</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-      Veniam maxime, ut explicabo tempora praesentium minus cum 
-      dolorem consequatur architecto aspernatur, ab perspiciatis. 
-      Dolores animi quidem doloremque a sed enim dolor?</p>
+    <h1>QUESTION-BOX</h1>
+    <p>Answer this week's question for the chance to win awards!</p>
   </header>
   <main>
     <section class="question-container">
-      <h2>Question of the week</h2>
-      <h3 class="question"></h3>
-      <img>
+      <div>
+        <h2>Question of the week:</h2>
+        <h3 class="question"></h3>
+      </div>
+      <img src="https://images.unsplash.com/photo-1611915387288-fd8d2f5f928b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80">
     </section>
     <section class="answer-container">
-      <h2>Your answer</h2>
+      <h2>Submit your answer:</h2>
       <form action="">
         <select id="name" name="name">
           <option value="kicki">Kicki</option>
@@ -39,8 +38,8 @@
           <option value="adam">Adam</option>
           <option value="philippa">Philippa</option>
         </select>
-        <input type="text" name="answer">
-        <input type="submit" value="SEND">
+        <textarea rows="9" class="answer-box" type="text" name="answer" size="50"></textarea>
+        <input class="submit-button" type="submit" value="SEND">
       </form>
     </section>
   </main>
