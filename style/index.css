@@ -1,11 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Tilt+Warp&display=swap');
+
 body {
-  max-width: 1000px;
+  max-width: 800px;
   margin: auto;
-  text-align: center;
+  padding: 0 2rem;
+  background-color: #ADD8DB;
+}
+
+h1 {
+  font-family: 'Tilt Warp';
+}
+
+p { 
+  font-family: 'Roboto';
 }
 
 section {
-  border: 1px solid black;
-  margin: 2rem;
-  padding: 1rem;
+  border: 1px solid white;
+  margin: 2rem 0;
+  padding: 0 1rem;
+  background-color: #BEA7E5;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+h2 {
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 1rem;
+}
+
+.answer-container form {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+  margin-bottom: 1rem;
+}
+
+.answer-container select {
+  margin-right: auto;
+  height: 25px;
+  margin: 0 auto 0.5rem 0;
+  border-radius: 5px;
+}
+
+.answer-box {
+  border-radius: 5px;
+}
+
+.submit-button {
+  font-weight: 700;
+  background-color: #FFC6DA;
+  margin: 0.5rem 0 0.5rem auto;
+  padding: 0.5rem 1.5rem;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.25);
 }
