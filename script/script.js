@@ -45,14 +45,16 @@ function checkResult(name, answer) {
   if (data[index].answer == answer) {
     console.log("yaaay");
     let correctModal = document.querySelector("form");
+    correctModal.classList.add('response-form');
     correctModal.innerHTML = `
     <h3>Congratulations ${name}, your guess was correct!</h3>
   `;
   } else {
     console.log("nay");
     let incorrectModal = document.querySelector("form");
+    incorrectModal.classList.add('response-form');
     incorrectModal.innerHTML = `
-    <h2>Whua whua... ${name}, your guess was incorrect, <br> better luck next week!</h2>`;
+    <h3>Whua whua... ${name}, your guess was incorrect, <br> better luck next week!</h3>`;
   }
 }
 

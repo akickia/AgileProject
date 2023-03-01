@@ -53,6 +53,11 @@ img {
   margin-bottom: 1rem;
 }
 
+.response-form {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+
 .answer-container select {
   margin-right: auto;
   height: 25px;
