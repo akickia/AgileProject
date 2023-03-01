@@ -39,7 +39,14 @@ function getAnswers(event) {
 
 function checkResult(name, answer) {
   let question = document.querySelector(".question").innerHTML;
-  console.log(question);
+
+  let index = data.findIndex((q) => q.question == question);
+
+  if (data[index].answer == answer) {
+    console.log("yaaay");
+  } else {
+    console.log("nay");
+  }
 }
 
 // function saveAnswersToJson(name, answer) {
