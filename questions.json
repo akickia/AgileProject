@@ -85,6 +85,11 @@
         "id": "17",
         "question":"Who has lived on Malta for 2 years and in Australia for 3 years?",
         "answer": "Rickard" 
+      },
+      {
+        "id": "18",
+        "question": "Who is a really good wedding photographer?",
+        "answer": "Shirak"
       }
     ]
   }
