@@ -3,33 +3,33 @@
     "question": [
       {
         "id": "1",
-        "question": "Which colleague sat with a Christmas background for far too long.",
+        "question": "Which classmate sat with a Christmas background for far too long?",
         "answer": "Berat"
       },
       {
         "id": "2",
-        "question": "How many time zones are there in Russia?",
-        "answer": "11"
+        "question": "Which two classmates are siblings?",
+        "answer": "Adam and Richard"
       },
       {
         "id": "3",
-        "question": "What's the national flower of Japan?",
-        "answer": "Cherry blossom"
+        "question": "Which classmate has puked in a police car?",
+        "answer": "Joakim"
       },
       {
         "id": "4",
-        "question": "How many stripes are there on the US flag?",
-        "answer": "13"
+        "question": "Which classmate has a fluffy dog?",
+        "answer": "Charlotte"
       },
       {
         "id": "5",
-        "question": "What's the national animal of Australia?",
-        "answer": "Red Kangaroo"
+        "question": "How many classmates celebrate their birthday in September?",
+        "answer": "6"
       },
       {
         "id": "6",
-        "question": "How many days does it take for the Earth to orbit the Sun?",
-        "answer": "365"
+        "question": "Which classmate has read 'Sjörapporten' on SR P1?",
+        "answer": "Fabiola"
       },
       {
         "id": "7",
@@ -38,32 +38,47 @@
       },
       {
         "id": "8",
-        "question": "How many puzzle pieces has Kicki put together?",
+        "question": "How large is the largest puzzle that Kicki has put together?",
         "answer": "5000"
       },
       {
         "id": "9",
-        "question": "Who has a cat with the same name as a colleague?",
+        "question": "Who has a cat with the same name as a classmate?",
         "answer": "Martina"
       },
       {
         "id": "10",
-        "question": "Which colleague has read 'Sjörapporten' on SR P1?",
-        "answer": "Fabiola"
+        "question": "What did the class get as fika in Gothemburg?",
+        "answer":"Cinnamon rolls"
       },
       {
         "id": "11",
-        "question": "How many colleagues celebrate their birthday in September?",
-        "answer": "6"
+        "question": "Which two classmates lives in a city where there exists a serial pooper?",
+        "answer": "Malek and Kicki"
       },
       {
         "id": "12",
-        "question": "Which colleague has a fluffy dog?",
-        "answer": "Charlotte"
+        "question":"Who is the biggest Pokémon fan in the class?",
+        "answer": "Maja"
       },
       {
         "id": "13",
-        "question": "Which colleague has puked in a police car?",
+        "question":"Who is the best photographer in the class?",
+        "answer": "Lisa"
+      },
+      {
+        "id": "14",
+        "question":"Who has a degree in E-Com management?",
+        "answer": "Philippa"
+      },
+      {
+        "id": "15",
+        "question":"Who serves the best drinks?",
+        "answer": "Lisa"
+      },
+      {
+        "id": "16",
+        "question":"Who is the class sångfågel?",
         "answer": "Joakim"
       }
     ]
