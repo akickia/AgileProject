@@ -43,7 +43,7 @@
       },
       {
         "id": "9",
-        "question": "Who has a cat named Freya?",
+        "question": "Who has a cat with the same name as a colleague?",
         "answer": "Martina"
       },
       {
@@ -55,6 +55,16 @@
         "id": "11",
         "question": "How many colleagues celebrate their birthday in September?",
         "answer": "6"
+      },
+      {
+        "id": "12",
+        "question": "Which colleague has a fluffy dog?",
+        "answer": "Charlotte"
+      },
+      {
+        "id": "13",
+        "question": "Which colleague has puked in a police car?",
+        "answer": "Joakim"
       }
     ]
   }

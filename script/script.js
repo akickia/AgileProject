@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 // let data = []
 // async function fetchQuestions() {
 //   try {
@@ -47,3 +48,30 @@
 console.log("hej")
 
 // fetchQuestions()
+=======
+let data = [];
+
+async function fetchQuestions() {
+  try {
+    const response = await fetch("questions.json");
+    data = await response.json();
+    data = data.questions.question;
+    generateRandomQuestion();
+  } catch (error) {
+    console.log(error);
+  }
+}
+
+function generateRandomQuestion() {
+  let randomQuestion = data[Math.floor(Math.random() * data.length)].question;
+
+  showQuestionUI(randomQuestion);
+}
+
+function showQuestionUI(randomQuestion) {
+  let questionEl = document.querySelector(".question");
+  questionEl.innerHTML = randomQuestion;
+}
+
+fetchQuestions();
+>>>>>>> Stashed changes
