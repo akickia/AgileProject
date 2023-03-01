@@ -9,7 +9,7 @@
       {
         "id": "2",
         "question": "Which two classmates are siblings?",
-        "answer": "Adam and Richard"
+        "answer": "Adam and Rickard"
       },
       {
         "id": "3",
@@ -80,6 +80,11 @@
         "id": "16",
         "question":"Who is the class sångfågel?",
         "answer": "Joakim"
+      },
+      {
+        "id": "17",
+        "question":"Who has lived on Malta for 2 years and in Australia for 3 years?",
+        "answer": "Rickard" 
       }
     ]
   }
